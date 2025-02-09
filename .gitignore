@@ -1,0 +1,59 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.pyd
+*.db
+*.sqlite3
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+.venv/
+
+# Flask specific
+instance/
+*.db
+*.sqlite
+*.log
+*.pid
+
+# IDEs and Text editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Configuration files
+config.py
+
+
+# Logs
+*.log
+*.log.*
+*.log.*.*
+*.log.*.*.*
+*.log.*.*.*.*
+*.log.*.*.*.*.*
+
+# Other files
+*.tmp
+*.tmp.*
+*.tmp.*.*
+*.tmp.*.*.*
+*.tmp.*.*.*.*
+*.tmp.*.*.*.*.*
+
+
